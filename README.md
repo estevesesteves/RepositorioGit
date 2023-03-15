@@ -1,2 +1,2 @@
 # RepositorioGit
-Proyecto de Prueba
+Proyecto de Prueba de git con github
